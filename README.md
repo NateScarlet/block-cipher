@@ -1,6 +1,6 @@
 # block cipher
 
-[![godev](https://img.shields.io/static/v1?label=godev&message=reference&color=00add8)](https://pkg.go.dev/github.com/NateScarlet/block-cipher/pkg)
+[![godev](https://img.shields.io/static/v1?label=godev&message=reference&color=00add8)](https://pkg.go.dev/github.com/NateScarlet/block-cipher/pkg/block_cipher)
 
 Encrypt/Decrypt stream with a padded block algorithm (e.g. AES-CBC with PKCS7 padding)
 
